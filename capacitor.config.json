@@ -1,0 +1,8 @@
+{
+  "appId": "id.kaskita.profesional",
+  "appName": "KasKita Profesional",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
